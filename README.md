@@ -21,6 +21,7 @@ Without the server script, the WhatsApp user acting as the server will receive m
 ### Commands
 
 The following commands can be sent from the user acting as the server to the victim user:
+
 NOTE: The push command will not work manually and the pull command will return the file encoded in base64 segments. 
 
 - shell {command} 
