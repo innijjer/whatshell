@@ -1,4 +1,4 @@
-number='16479180807'  # Servers phone number used as sample (throwaway number)
+number='{cc}{phone number}'  # Servers phone number used as sample (throwaway number) i.e. 14161231234
 #su
 
 ## Statements checks display resolution to determine position of buttons (Not needed anymore)
