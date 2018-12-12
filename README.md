@@ -30,12 +30,12 @@ NOTE: The push command will not work manually and the pull command will return t
 - push {path}
   - Infiltrates file into victims device
 - screenshot
-  - Uses shell command to take screeshot and exfiltrates file
+  - Uses shell command to take screenshot and exfiltrates file
 - getuid
   - Current user uid
 - ifconfig
   - Network information
 - ps
-  - Displays running proceses
+  - Displays running processes
 - sysinfo
   - Displays system information like device name and build
